@@ -1,0 +1,44 @@
+body {
+  background: #FF512F;  /* fallback for old browsers */
+ /* background: linear-gradient( white, #94FAB6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+   background: #FF512F;  /* fallback */
+  background-image: linear-gradient(
+    #E6ECEC, #E6ECEC 5%, 
+    #EAECDF 5%, #EAECDF 10%,
+    #F0ECAB 10%, #F0ECAB 15%, 
+    #FFEB57 15%, #FFEB57 20%, 
+    #FFD82F 20%, #FFD82F 25%, 
+    #FECA2B 25%, #FECA2B 30%, 
+    #FF9428 30%, #FF9428 35%, 
+    #FF8543 35%, #FF8543 40%, 
+    #FC755C 40%, #FC755C 45%,
+    #EB6570 45%, #EB6570 50%, 
+    #CA548E 50%, #CA548E 55%, 
+    #A14FA1 55%, #A14FA1 60%, 
+    #7B4B9E 60%, #7B4B9E 65%, 
+    #5D4BA2 65%, #5D4BA2 70%, 
+    #183D9B 70%, #183D9B 75%, 
+    #013187 75%, #013187 80%, 
+    #032840 80%, #032840 85%, 
+    #071721 85%, #071721
+); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+  
+  font-size: 2.5em;  
+  
+  
+}
+
+.main { 
+  background: white; 
+}
+
+.main-image {
+  border-radius: 0%; 
+}
+
+#intro-text { 
+  font-family: Helvetica; 
+  font-size: 6.5em; 
+}
