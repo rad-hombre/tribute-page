@@ -1,7 +1,6 @@
 body {
   background: #FF512F;  /* fallback for old browsers */
  /* background: linear-gradient( white, #94FAB6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  
    background: #FF512F;  /* fallback */
   background-image: linear-gradient(
     #E6ECEC, #E6ECEC 5%, 
@@ -23,15 +22,12 @@ body {
     #032840 80%, #032840 85%, 
     #071721 85%, #071721
 ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  
-  
-  font-size: 2.5em;  
-  
-  
+  font-size: 2rem;
 }
 
-.main { 
-  background: white; 
+#main { 
+    background: white;
+    max-width: 970px; 
 }
 
 .main-image {
@@ -40,5 +36,5 @@ body {
 
 #intro-text { 
   font-family: Helvetica; 
-  font-size: 6.5em; 
+  font-size: 15rem; 
 }
