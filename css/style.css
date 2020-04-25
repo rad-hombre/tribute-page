@@ -1,3 +1,7 @@
+:root {
+  font-size: 1.25rem;
+}
+
 body {
   background: #FF512F;  /* fallback for old browsers */
  /* background: linear-gradient( white, #94FAB6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
@@ -22,7 +26,6 @@ body {
     #032840 80%, #032840 85%, 
     #071721 85%, #071721
 ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  font-size: 2rem;
 }
 
 #main { 
@@ -30,11 +33,6 @@ body {
     max-width: 970px; 
 }
 
-.main-image {
-  border-radius: 0%; 
-}
-
-#intro-text { 
-  font-family: Helvetica; 
-  font-size: 15rem; 
+#image {
+ max-width: 250px; 
 }
