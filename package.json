@@ -14,7 +14,7 @@
   "license": "ISC",
   "home": "https://rad-hombre.github.io/tribute-page",
   "devDependencies": {
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.27.10",
     "run-script-os": "^1.0.3"
   },
   "dependencies": {
